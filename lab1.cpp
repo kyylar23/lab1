@@ -1,3 +1,4 @@
+//лаба
 #include <iostream>
 #include <cmath>
 
